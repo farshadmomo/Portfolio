@@ -1,0 +1,133 @@
+* {
+    margin: 0;
+    font-family: "Lucida Sans";
+}
+body {
+    overflow: hidden;
+    background: rgb(65,66,74);
+    background: radial-gradient(circle, rgba(65,66,74,1) 27%, rgba(230,113,63,1) 100%);
+}
+/*.navbar-container {*/
+/*    display: flex;*/
+/*    padding: 0 15px;*/
+/*    height: 40px;*/
+/*    align-items: center;*/
+/*    justify-content: space-between;*/
+/*    background-color: rgba(51, 58, 115, 0.9);*/
+/*}*/
+/*.tabs-container {*/
+/*    display: flex;*/
+/*    height: inherit;*/
+/*    gap: 10px;*/
+/*    justify-content: end;*/
+/*    width: 300px;*/
+/*}*/
+/*.tabs-container>div {*/
+/*    cursor: pointer;*/
+/*    display: flex;*/
+/*    font-size: 14px;*/
+/*    font-weight: bold;*/
+/*    justify-content: center;*/
+/*    align-items: center;*/
+/*    width: 6vw;*/
+/*    border-radius: 3px;*/
+/*    background-color: rgba(255, 221, 149,0.8);*/
+/*    transition: width 500ms , transform 10s;*/
+/* }*/
+/*.tabs-container>div:hover {*/
+/*    width: 9vw;*/
+/*    transition: width 500ms , transform 10s;*/
+/*}*/
+/*.social-container {*/
+/*    display: flex;*/
+/*    gap: 10px;*/
+/*}*/
+/*.logo-container {*/
+/*    display: flex;*/
+/*    justify-content: center;*/
+/*    align-items: center;*/
+/*    height: inherit;*/
+/*    font-size: 19px;*/
+/*    font-weight: bold;*/
+/*    cursor: pointer;*/
+/*}*/
+/*.logo-container>div {*/
+/*    display: flex;*/
+/*    align-items: center;*/
+/*    justify-content: center;*/
+/*    padding: 0 20px;*/
+/*    width: 11vw;*/
+/*    height: inherit;*/
+/*}*/
+/*.social-container {*/
+/*    display: flex;*/
+/*    height: inherit;*/
+/*    align-items: center;*/
+/*    justify-content: center;*/
+/*}*/
+/*.social-container > div {*/
+/*    height: inherit;*/
+/*    display: flex;*/
+/*    align-items: center;*/
+/*    justify-content: center;*/
+/*    width: 30px;*/
+/*    cursor: pointer;*/
+/*    transition: scale 500ms;*/
+/*}*/
+/*.social-container > div:hover {*/
+/*    transition: 500ms;*/
+/*    scale: 120%;*/
+/*}*/
+/*.social-container > div > a {*/
+/*    text-decoration: none;*/
+/*    color: #303030;*/
+/*}*/
+/*.bio-container {*/
+/*    display: flex;*/
+/*    margin: 20px 20px;*/
+/*    !*background-color: rgba(51, 58, 115, 0.8);*!*/
+/*    !*background-repeat: no-repeat;*!*/
+/*    !*background-attachment: fixed;*!*/
+/*    background-size: cover;*/
+/*    !*border-radius: 20px;*!*/
+/*    border-radius: 34px;*/
+/*    !*background: linear-gradient(315deg, rgba(54,118,139,0.5), rgba(64,140,165,0.5));*!*/
+/*    background-color: rgba(256,256,256,0.3);*/
+/*    box-shadow:  -24px 24px 49px lightgrey,*/
+/*    24px -24px 49px gainsboro;*/
+/*    !*max-width: 1100px;*!*/
+/*}*/
+/*.bio-container > div.bio-text-container {*/
+/*    padding: 20px 20px;*/
+/*    height: 400px;*/
+/*}*/
+/*.bio-container > div.bio-text-container > span {*/
+/*    display: inline-block;*/
+/*}*/
+/*.bio-picture {*/
+/*    display: flex;*/
+/*    flex-direction: column;*/
+/*    background-color: rgba(51, 58, 115, 0.8);*/
+/*    gap: 15px;*/
+/*    align-items: center;*/
+/*    width: 300px;*/
+/*    height: 500px;*/
+/*    margin: 20px 20px;*/
+/*    border-radius: 20px;*/
+/*}*/
+/*.bio-component-container {*/
+/*    display: grid;*/
+/*    grid-template-columns: 3fr 1fr;*/
+/*}*/
+/*.bio-picture >img {*/
+/*    width: 300px;*/
+/*    border-radius: 20px;*/
+/*}*/
+/*.bio-picture >h4 {*/
+/*    font-family: sans-serif;*/
+/*}*/
+/*.del-key {*/
+/*    scale: 0.7;*/
+/*    margin-left: -20px;*/
+/*    margin-right: -150px;*/
+/*}*/

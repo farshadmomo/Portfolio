@@ -1,0 +1,11 @@
+.contact-form {
+    display:flex;
+    flex-direction:column;
+    flex-wrap:wrap;
+    justify-content:center;
+    align-items:start;
+    border-radius:20px;
+    padding:25px;
+    transition: 300ms;
+    gap: 20px;
+}

@@ -1,0 +1,27 @@
+export default [
+    {
+        skillName:'HTML',
+        percentage:100
+    },{
+        skillName:'CSS',
+        percentage:100
+    },{
+        skillName:'JavaScipt',
+        percentage:90
+    },{
+        skillName:'React',
+        percentage:80
+    },{
+        skillName:'Node.js',
+        percentage:30
+    },{
+        skillName:'Docker',
+        percentage:30
+    },{
+        skillName:'MUI',
+        percentage:70
+    },{
+        skillName:'PS',
+        percentage:80
+    }
+]

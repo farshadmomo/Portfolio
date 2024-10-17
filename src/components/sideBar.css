@@ -1,0 +1,17 @@
+.slide-main {
+    height: 100vh;
+    width: 60px;
+    display: flex;
+    flex-direction: column;
+}
+.icons {
+    
+}
+.icons:hover {
+    color: darkcyan;
+    cursor: pointer;
+    transition: 300ms;
+}
+.icons:active {
+    font-size: 20px;
+}

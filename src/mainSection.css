@@ -1,0 +1,14 @@
+.mainSection-container {
+    width: 77vw;
+    height: 90vh;
+    border-radius: 45px;
+    background: rgba(56,89,133,0.3);
+    transition: 0.5s;
+}
+.tabs-container {
+    display: flex;
+}
+.mainSection-container:hover {
+    box-shadow:  -5px 5px 10px rgba(85,76,72,1),
+    5px -5px 10px rgb(105,96,92);
+}

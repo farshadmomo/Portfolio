@@ -1,0 +1,67 @@
+.card {
+    width: 16vw;
+    height: 280px;
+    border-radius: 2em;
+    padding: 10px;
+    background-color: rgba(85,76,72,1);
+    transition: 0.5s;
+    margin-left: 10px;
+}
+.card:hover {
+    box-shadow:  -5px 5px 10px rgba(85,76,72,1),
+    5px -5px 10px rgb(105,96,92);
+}
+
+.profileimage {
+    background-color: transparent;
+    border: none;
+    margin-top: 20px;
+    border-radius: 5em;
+    width: 100px;
+    height: 100px;
+}
+
+.pfp {
+    border-radius: 35em;
+    fill: white;
+}
+
+.Name {
+    color: white;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    padding: 15px;
+    font-size: 20px;
+    margin-top: 10px;
+}
+
+.socialbar {
+    background-color: rgba(85,76,72,1);
+    border-radius: 3em;
+    width: 90%;
+    padding: 14px;
+    margin-top: 15px;
+    color: white;
+    box-shadow:  -5px 5px 10px rgba(105,96,92),
+    5px -5px 10px rgb(125,116,112);
+}
+
+.card a {
+    transition: 0.4s;
+    color: white
+}
+
+#github:hover {
+    color: #c9510c;
+}
+
+#instagram:hover {
+    color: #d62976;
+}
+
+#facebook:hover {
+    color: #3b5998;
+}
+
+#twitter:hover {
+    color: #00acee;
+}
